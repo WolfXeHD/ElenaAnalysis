@@ -1,0 +1,448 @@
+,id,Time,Type,Notes,mod_Notes,dict_Notes,Mica,Windel,datetime
+0,595,19:04:15 05-02-2021,Pee,Mica: True  Windel: trocken,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-05-02 19:04:15
+1,594,17:04:41 05-02-2021,Pee,Mica: True  Windel: trocken,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-05-02 17:04:41
+2,593,15:51:20 05-02-2021,Pee,Mica: True  Windel: trocken,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-05-02 15:51:20
+3,592,15:32:41 05-02-2021,Pee,Mica: True,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-05-02 15:32:41
+4,591,15:04:42 05-02-2021,Pee,Mica: False  Windel: Nass,"Windel: nass, Mica: False","{'Windel': 'nass', 'Mica': True}",True,nass,2021-05-02 15:04:42
+5,590,14:29:12 05-02-2021,Pee,Mica: true  Windel: trocken,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-05-02 14:29:12
+6,589,13:14:53 05-02-2021,Pee,Mica: true  Windel: trocken,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-05-02 13:14:53
+7,588,12:08:12 05-02-2021,Pee,Mica: true  Windel: nass,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-05-02 12:08:12
+8,587,11:15:16 05-02-2021,Pee,Mica: true  Windel: trocken,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-05-02 11:15:16
+9,586,10:17:54 05-02-2021,Pee,Mica: True  Windel: Trocken,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-05-02 10:17:54
+10,585,09:57:20 05-02-2021,Pee,Pipi in mica. Windel feucht,"Windel: feucht, Mica: True","{'Windel': 'feucht', 'Mica': True}",True,feucht,2021-05-02 09:57:20
+11,584,09:20:09 05-02-2021,Pee,En la mica,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-05-02 09:20:09
+12,583,09:11:25 05-02-2021,Pee,Pañal mojado,"Windel: nass, Mica: False","{'Windel': 'nass', 'Mica': True}",True,nass,2021-05-02 09:11:25
+13,582,08:47:09 05-02-2021,Pee,En la mica,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-05-02 08:47:09
+14,580,08:05:03 05-02-2021,Pee,En la mica,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-05-02 08:05:03
+15,579,07:04:01 05-02-2021,Pee,En la mica y pañal mojado,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-05-02 07:04:01
+16,578,03:47:57 05-02-2021,Pee,En la mica y pañal mojado,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-05-02 03:47:57
+17,577,00:45:53 05-02-2021,Pee,Mica y pañal mojado,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-05-02 00:45:53
+18,576,21:35:17 05-01-2021,Pee,En la mica,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-05-01 21:35:17
+19,575,20:19:24 05-01-2021,Pee,En la mica,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-05-01 20:19:24
+20,574,19:30:51 05-01-2021,Pee,En la mica,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-05-01 19:30:51
+21,573,18:30:23 05-01-2021,Pee,En la mica,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-05-01 18:30:23
+22,572,17:57:01 05-01-2021,Pee,Pañal mojado,"Windel: nass, Mica: False","{'Windel': 'nass', 'Mica': True}",True,nass,2021-05-01 17:57:01
+23,571,17:15:26 05-01-2021,Pee,En la mica,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-05-01 17:15:26
+25,569,15:48:40 05-01-2021,Pee,In mica  Windel trocken,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-05-01 15:48:40
+26,568,14:47:51 05-01-2021,Pee,En la mica,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-05-01 14:47:51
+27,567,13:59:18 05-01-2021,Pee,En la mica,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-05-01 13:59:18
+28,566,13:50:13 05-01-2021,Pee,Pañal mojado,"Windel: nass, Mica: False","{'Windel': 'nass', 'Mica': True}",True,nass,2021-05-01 13:50:13
+29,564,13:05:47 05-01-2021,Pee,Pipi in mica  Windel trocken,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-05-01 13:05:47
+30,565,12:00:04 05-01-2021,Pee,Pipi un mica  Windel trocken,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-05-01 12:00:04
+32,562,08:39:03 05-01-2021,Pee,Pañal mojado,"Windel: nass, Mica: False","{'Windel': 'nass', 'Mica': True}",True,nass,2021-05-01 08:39:03
+33,559,07:02:56 05-01-2021,Pee,En la mica y pañal mojado,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-05-01 07:02:56
+34,561,05:50:45 05-01-2021,Pee,En la mica y pañal mojado,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-05-01 05:50:45
+35,560,02:50:19 05-01-2021,Pee,En la mica y pañal mojado,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-05-01 02:50:19
+36,558,21:45:19 04-30-2021,Pee,Mica  Windel trocken,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-04-30 21:45:19
+37,557,20:15:15 04-30-2021,Pee,En la mica y pañal mojado,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-30 20:15:15
+38,556,19:29:01 04-30-2021,Pee,En la mica,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-04-30 19:29:01
+39,555,18:42:17 04-30-2021,Pee,Pañal mojado,"Windel: nass, Mica: False","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-30 18:42:17
+40,554,15:40:39 04-30-2021,Pee,En la mica,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-04-30 15:40:39
+41,553,15:00:54 04-30-2021,Pee,Mica y pañal mojado,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-30 15:00:54
+42,552,14:32:01 04-30-2021,Pee,En la mica,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-04-30 14:32:01
+44,550,12:44:28 04-30-2021,Pee,En la mica,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-04-30 12:44:28
+45,549,10:40:19 04-30-2021,Pee,En la mica,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-04-30 10:40:19
+46,548,08:58:07 04-30-2021,Pee,Pipi in mica  Windel trocken,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-04-30 08:58:07
+47,547,07:35:42 04-30-2021,Pee,En la mica y pañal mojado,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-30 07:35:42
+48,545,04:33:49 04-30-2021,Pee,En la mica y pañal mojado,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-30 04:33:49
+49,546,01:23:13 04-30-2021,Pee,En la mica y pañal mojado,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-30 01:23:13
+50,544,20:51:16 04-29-2021,Pee,En la mica y pañal mojado,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-29 20:51:16
+51,543,20:06:24 04-29-2021,Pee,Pipi in mica  Windel voll,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-29 20:06:24
+52,542,17:50:44 04-29-2021,Pee,En la mica,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-04-29 17:50:44
+53,540,17:17:02 04-29-2021,Pee,Pañal mojado,"Windel: nass, Mica: False","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-29 17:17:02
+55,541,16:10:21 04-29-2021,Pee,Pañal mojado,"Windel: nass, Mica: False","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-29 16:10:21
+56,538,14:16:52 04-29-2021,Pee,En la mica y pañal mojado,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-29 14:16:52
+57,537,13:30:14 04-29-2021,Pee,En la mica y Pañal mojado,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-29 13:30:14
+58,536,12:17:17 04-29-2021,Pee,En la mica,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-04-29 12:17:17
+59,535,10:26:52 04-29-2021,Pee,In mica. Windel trocken,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-04-29 10:26:52
+60,533,06:03:13 04-29-2021,Pee,En la mica y pañal mojado,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-29 06:03:13
+61,534,02:55:41 04-29-2021,Pee,En la mica y pañal mojado,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-29 02:55:41
+62,532,21:30:38 04-28-2021,Pee,En la mica,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-04-28 21:30:38
+63,531,20:34:12 04-28-2021,Pee,En la mica,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-04-28 20:34:12
+64,530,18:47:32 04-28-2021,Pee,Pañal mojado,"Windel: nass, Mica: False","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-28 18:47:32
+65,529,18:11:48 04-28-2021,Pee,Pañal mojado,"Windel: nass, Mica: False","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-28 18:11:48
+66,528,16:04:16 04-28-2021,Pee,Pañal mojado,"Windel: nass, Mica: False","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-28 16:04:16
+67,527,13:51:05 04-28-2021,Pee,En la mica,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-04-28 13:51:05
+68,526,13:14:57 04-28-2021,Pee,,None,"{'Mica': None, 'Windel': None}",,,2021-04-28 13:14:57
+70,524,09:57:09 04-28-2021,Pee,Mica,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-28 09:57:09
+71,523,07:16:19 04-28-2021,Pee,En la mica,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-04-28 07:16:19
+72,522,05:17:04 04-28-2021,Pee,Pañal mojado,"Windel: nass, Mica: False","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-28 05:17:04
+73,520,01:55:15 04-28-2021,Pee,En la mica y pañal mojado,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-28 01:55:15
+74,521,21:15:09 04-27-2021,Pee,En la mica,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-04-27 21:15:09
+75,519,18:45:51 04-27-2021,Pee,En la mica,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-04-27 18:45:51
+76,518,18:11:33 04-27-2021,Pee,Pañal mojado,"Windel: nass, Mica: False","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-27 18:11:33
+77,517,14:25:12 04-27-2021,Pee,En la mica,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-04-27 14:25:12
+78,516,14:00:14 04-27-2021,Pee,En la mica y pañal mojado,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-27 14:00:14
+79,515,11:15:58 04-27-2021,Pee,Pipi in Töpfchen  Windel trocken,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-04-27 11:15:58
+80,514,10:00:42 04-27-2021,Pee,Pañal mojado,"Windel: nass, Mica: False","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-27 10:00:42
+81,513,09:00:12 04-27-2021,Pee,En la mica y pañal mojado,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-27 09:00:12
+82,512,06:40:03 04-27-2021,Pee,En la mica y pañal mojado,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-27 06:40:03
+83,511,02:30:55 04-27-2021,Pee,En la mica y pañal mojado,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-27 02:30:55
+84,510,21:25:21 04-26-2021,Pee,Pipi in mica. Windel nass,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-26 21:25:21
+85,509,20:16:36 04-26-2021,Pee,Pañal mojado,"Windel: nass, Mica: False","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-26 20:16:36
+86,508,17:57:28 04-26-2021,Pee,En la mica,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-04-26 17:57:28
+87,507,17:20:37 04-26-2021,Pee,Pañal mojado,"Windel: nass, Mica: False","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-26 17:20:37
+89,505,14:55:12 04-26-2021,Pee,Pañal mojado,"Windel: nass, Mica: False","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-26 14:55:12
+90,506,13:25:50 04-26-2021,Pee,En la mica,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-04-26 13:25:50
+92,502,11:44:46 04-26-2021,Pee,Pañal mojado,"Windel: nass, Mica: False","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-26 11:44:46
+93,501,11:06:04 04-26-2021,Pee,En la mica!,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-26 11:06:04
+94,500,10:00:57 04-26-2021,Pee,In die mica,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-04-26 10:00:57
+95,499,09:48:12 04-26-2021,Pee,Windel nass,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-26 09:48:12
+96,498,09:00:14 04-26-2021,Pee,Windel trocken! In mica!,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-04-26 09:00:14
+97,496,07:40:25 04-26-2021,Pee,En la mica y pañal mojado,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-26 07:40:25
+98,497,03:16:49 04-26-2021,Pee,En el cambiador y pañal mojado,"Windel: nass, Mica: False","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-26 03:16:49
+99,495,21:19:29 04-25-2021,Pee,En la mica,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-04-25 21:19:29
+100,494,20:37:17 04-25-2021,Pee,En la mica,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-04-25 20:37:17
+101,493,19:00:03 04-25-2021,Pee,,None,"{'Mica': None, 'Windel': None}",,,2021-04-25 19:00:03
+102,492,16:29:41 04-25-2021,Pee,Pipi ins Töpfchen. Windel feucht.,"Windel: feucht, Mica: True","{'Windel': 'feucht', 'Mica': True}",True,feucht,2021-04-25 16:29:41
+103,491,15:14:00 04-25-2021,Pee,En la mica,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-04-25 15:14:00
+104,490,14:14:50 04-25-2021,Pee,Pañal mojado,"Windel: nass, Mica: False","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-25 14:14:50
+105,489,13:13:20 04-25-2021,Pee,En la mica,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-04-25 13:13:20
+106,488,12:57:39 04-25-2021,Pee,Windel nass,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-25 12:57:39
+107,487,09:46:47 04-25-2021,Pee,En la mica ,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-04-25 09:46:47
+108,486,07:15:35 04-25-2021,Pee,En la mica y pañal mojado,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-25 07:15:35
+109,484,05:36:22 04-25-2021,Pee,En la mica y pañal mojado,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-25 05:36:22
+110,485,02:30:54 04-25-2021,Pee,Pañal mojado,"Windel: nass, Mica: False","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-25 02:30:54
+111,483,18:58:41 04-24-2021,Pee,En la mica y pañal mojado,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-24 18:58:41
+112,482,15:18:52 04-24-2021,Pee,Mica,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-24 15:18:52
+113,481,13:44:20 04-24-2021,Pee,En la mica,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-04-24 13:44:20
+114,480,12:03:04 04-24-2021,Pee,Mica,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-24 12:03:04
+115,479,09:34:38 04-24-2021,Pee,Mica,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-24 09:34:38
+117,477,08:50:25 04-24-2021,Pee,Pañal mojado,"Windel: nass, Mica: False","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-24 08:50:25
+119,475,15:26:12 04-23-2021,Pee,Pañal mojado,"Windel: nass, Mica: False","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-23 15:26:12
+120,474,08:45:45 04-23-2021,Pee,,None,"{'Mica': None, 'Windel': None}",,,2021-04-23 08:45:45
+121,473,03:19:17 04-23-2021,Pee,Pañal mojado,"Windel: nass, Mica: False","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-23 03:19:17
+122,472,21:06:45 04-22-2021,Pee,En la mica,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-04-22 21:06:45
+124,470,18:32:27 04-22-2021,Pee,Windel voll,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-22 18:32:27
+126,468,15:16:59 04-22-2021,Pee,Pañal mojado,"Windel: nass, Mica: False","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-22 15:16:59
+127,467,11:44:53 04-22-2021,Pee,En la mica,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-04-22 11:44:53
+128,466,10:04:41 04-22-2021,Pee,Mica,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-22 10:04:41
+129,464,09:07:40 04-22-2021,Pee,En la mica,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-04-22 09:07:40
+130,465,08:20:02 04-22-2021,Pee,En la mica y pañal mojado,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-22 08:20:02
+131,463,05:14:54 04-22-2021,Pee,En la mica y pañal mojado,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-22 05:14:54
+132,462,02:03:13 04-22-2021,Pee,En la mica y pañal mojado,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-22 02:03:13
+133,460,20:57:39 04-21-2021,Pee,En la mica ,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-04-21 20:57:39
+134,459,19:34:12 04-21-2021,Pee,En la mica,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-04-21 19:34:12
+135,458,18:04:07 04-21-2021,Pee,En la mica ,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-04-21 18:04:07
+136,457,15:18:19 04-21-2021,Pee,En la mica,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-04-21 15:18:19
+137,456,14:35:27 04-21-2021,Pee,En la mica,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-04-21 14:35:27
+138,455,13:50:46 04-21-2021,Pee,En la mica y pañal mojado,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-21 13:50:46
+139,454,12:16:53 04-21-2021,Pee,En el pañal,"Windel: nass, Mica: False","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-21 12:16:53
+140,453,10:59:50 04-21-2021,Pee,En la mica y pañal mojado,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-21 10:59:50
+141,452,10:11:57 04-21-2021,Pee,Mica!,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-04-21 10:11:57
+142,451,09:10:46 04-21-2021,Pee,En la mica y pañal mojado,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-21 09:10:46
+143,450,07:55:28 04-21-2021,Pee,En la mica y Pañal mojado,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-21 07:55:28
+144,449,04:57:45 04-21-2021,Pee,En la mica y pañal mojado,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-21 04:57:45
+145,448,01:57:48 04-21-2021,Pee,En la mica y pañal mojado,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-21 01:57:48
+146,447,21:34:43 04-20-2021,Pee,Mica,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-20 21:34:43
+147,446,20:28:36 04-20-2021,Pee,En la mica y pañal mojado,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-20 20:28:36
+148,445,17:30:15 04-20-2021,Pee,En la mica y pañal mojado,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-20 17:30:15
+149,444,16:35:46 04-20-2021,Pee,En la mica,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-04-20 16:35:46
+151,442,14:38:07 04-20-2021,Pee,En la mica,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-04-20 14:38:07
+152,441,13:59:29 04-20-2021,Pee,Mica und Windel nass,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-20 13:59:29
+155,437,04:58:02 04-20-2021,Pee,Pañal mojado y en la mica,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-20 04:58:02
+156,438,01:23:22 04-20-2021,Pee,Pañal mojado y en la mica,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-20 01:23:22
+157,436,19:10:48 04-19-2021,Pee,En la mica,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-04-19 19:10:48
+158,435,19:00:55 04-19-2021,Pee,Pañal mojado,"Windel: nass, Mica: False","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-19 19:00:55
+159,434,18:00:41 04-19-2021,Pee,En la mica y pañal mojado,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-19 18:00:41
+160,433,17:31:05 04-19-2021,Pee,Pañal mojado,"Windel: nass, Mica: False","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-19 17:31:05
+162,431,16:10:11 04-19-2021,Pee,Pañal mojado,"Windel: nass, Mica: False","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-19 16:10:11
+163,430,12:27:00 04-19-2021,Pee,En la mica y pañal mojado,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-19 12:27:00
+165,428,07:30:10 04-19-2021,Pee,En la mica y pañal mojado,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-19 07:30:10
+166,427,03:53:09 04-19-2021,Pee,En la mica y pañal mojado,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-19 03:53:09
+167,426,20:34:58 04-18-2021,Pee,En la mica!! ,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-18 20:34:58
+168,425,19:44:56 04-18-2021,Pee,Mica,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-18 19:44:56
+169,424,18:10:36 04-18-2021,Pee,En la mica y pañal mojado,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-18 18:10:36
+170,423,15:02:01 04-18-2021,Pee,En la mica,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-04-18 15:02:01
+171,422,13:17:30 04-18-2021,Pee,Mica! Trocken!,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-04-18 13:17:30
+172,421,12:02:03 04-18-2021,Pee,En la mica y pañal mojado,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-18 12:02:03
+173,420,10:50:25 04-18-2021,Pee,Mica,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-18 10:50:25
+175,416,07:56:32 04-18-2021,Pee,Pañal mojado,"Windel: nass, Mica: False","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-18 07:56:32
+176,418,04:30:27 04-18-2021,Pee,Pañal mojado,"Windel: nass, Mica: False","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-18 04:30:27
+177,417,00:58:08 04-18-2021,Pee,En la mica y pañal mojado,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-18 00:58:08
+178,415,21:25:50 04-17-2021,Pee,Pañal mojado,"Windel: nass, Mica: False","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-17 21:25:50
+179,414,18:03:54 04-17-2021,Pee,En la mica y pañal mojado,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-17 18:03:54
+180,412,15:35:33 04-17-2021,Pee,Mica! Trocken!,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-04-17 15:35:33
+182,411,13:59:11 04-17-2021,Pee,En la mica,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-04-17 13:59:11
+183,410,12:39:52 04-17-2021,Pee,En la mica,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-04-17 12:39:52
+184,408,10:45:57 04-17-2021,Pee,Pañal mojado,"Windel: nass, Mica: False","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-17 10:45:57
+185,409,09:30:08 04-17-2021,Pee,Pañal mojado,"Windel: nass, Mica: False","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-17 09:30:08
+186,407,05:11:39 04-17-2021,Pee,En la mica y pañal mojado,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-17 05:11:39
+187,406,02:11:28 04-17-2021,Pee,En la mica y pañal mojado,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-17 02:11:28
+188,405,22:45:59 04-16-2021,Pee,In das Töpfchen! Windel feucht,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-16 22:45:59
+189,404,20:14:14 04-16-2021,Pee,En la mica y pañal mojado,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-16 20:14:14
+190,403,19:08:12 04-16-2021,Pee,Mica!!,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-04-16 19:08:12
+191,402,18:20:52 04-16-2021,Pee,Mica!!,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-04-16 18:20:52
+192,401,16:55:59 04-16-2021,Pee,In die mica. Windel nass,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-16 16:55:59
+193,400,15:10:06 04-16-2021,Pee,En la mica y pañal mojado,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-16 15:10:06
+194,399,13:36:29 04-16-2021,Pee,En la mica y pañal mojado,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-16 13:36:29
+195,397,10:10:24 04-16-2021,Pee,En la mica y pañal mojado,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-16 10:10:24
+196,398,08:30:52 04-16-2021,Pee,En la mica y pañal mojado,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-16 08:30:52
+197,396,05:54:40 04-16-2021,Pee,En la mica,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-04-16 05:54:40
+199,395,05:05:50 04-16-2021,Pee,Pañal mojado,"Windel: nass, Mica: False","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-16 05:05:50
+200,393,01:11:04 04-16-2021,Pee,En la mica y pañal mojado,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-16 01:11:04
+201,392,20:00:59 04-15-2021,Pee,En la mica,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-04-15 20:00:59
+202,391,18:11:28 04-15-2021,Pee,En la mica y pañal mojado,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-15 18:11:28
+203,390,16:31:31 04-15-2021,Pee,En la mica y pañal mojado,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-15 16:31:31
+204,389,15:38:51 04-15-2021,Pee,En la mica,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-04-15 15:38:51
+206,387,13:11:16 04-15-2021,Pee,En la mica,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-04-15 13:11:16
+208,384,06:40:11 04-15-2021,Pee,En la mica y Pañal mojado,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-15 06:40:11
+209,383,03:39:51 04-15-2021,Pee,Pañal  mojado,"Windel: nass, Mica: False","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-15 03:39:51
+210,382,01:45:31 04-15-2021,Pee,En la mica y pañal mojado,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-15 01:45:31
+211,380,20:17:44 04-14-2021,Pee,En la mica,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-04-14 20:17:44
+212,381,19:40:44 04-14-2021,Pee,En la mica,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-04-14 19:40:44
+213,379,18:53:30 04-14-2021,Pee,En la mica y pañal mojado,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-14 18:53:30
+214,377,17:51:29 04-14-2021,Pee,En la mica,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-04-14 17:51:29
+217,374,16:13:27 04-14-2021,Pee,En la mica,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-04-14 16:13:27
+218,373,14:50:31 04-14-2021,Pee,En la mica,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-04-14 14:50:31
+219,372,13:37:27 04-14-2021,Pee,En la mica y pañal mojado,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-14 13:37:27
+220,371,12:45:47 04-14-2021,Pee,Pañal mojado,"Windel: nass, Mica: False","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-14 12:45:47
+222,369,11:40:28 04-14-2021,Pee,En la mica,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-04-14 11:40:28
+223,368,09:54:41 04-14-2021,Pee,En la mica y pañal mojado,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-14 09:54:41
+224,367,04:43:50 04-14-2021,Pee,En la mica,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-04-14 04:43:50
+225,366,00:49:03 04-14-2021,Pee,Pañal mojado,"Windel: nass, Mica: False","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-14 00:49:03
+226,365,21:15:32 04-13-2021,Pee,Pañal mojado,"Windel: nass, Mica: False","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-13 21:15:32
+228,364,16:50:29 04-13-2021,Pee,En la mica,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-04-13 16:50:29
+229,362,14:23:16 04-13-2021,Pee,En la mica,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-04-13 14:23:16
+231,360,10:55:32 04-13-2021,Pee,Pañal mojado,"Windel: nass, Mica: False","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-13 10:55:32
+232,359,08:50:55 04-13-2021,Pee,En la mica y pañal mojado,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-13 08:50:55
+233,358,05:06:41 04-13-2021,Pee,En la mica y pañal mojado,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-13 05:06:41
+234,357,01:54:06 04-13-2021,Pee,En la mica y pañal mojado,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-13 01:54:06
+235,356,20:15:09 04-12-2021,Pee,En la mica y pañal mojado,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-12 20:15:09
+237,354,18:37:00 04-12-2021,Pee,En la mica,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-04-12 18:37:00
+238,353,17:23:11 04-12-2021,Pee,Pañal mojado,"Windel: nass, Mica: False","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-12 17:23:11
+240,351,13:03:56 04-12-2021,Pee,En la mica,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-04-12 13:03:56
+241,350,12:38:03 04-12-2021,Pee,Pañal mojado,"Windel: nass, Mica: False","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-12 12:38:03
+243,348,10:56:59 04-12-2021,Pee,En la mica y pañal mojado,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-12 10:56:59
+244,347,19:30:20 04-11-2021,Pee,Pañal mojado,"Windel: nass, Mica: False","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-11 19:30:20
+245,346,16:26:14 04-11-2021,Pee,En la mica y pañal mojado,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-11 16:26:14
+246,345,15:10:42 04-11-2021,Pee,Pañal mojado,"Windel: nass, Mica: False","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-11 15:10:42
+247,344,14:00:42 04-11-2021,Pee,Windel leer  Pipi ins Töpfchen,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-04-11 14:00:42
+248,343,11:41:51 04-11-2021,Pee,En la mica,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-04-11 11:41:51
+250,341,10:00:31 04-11-2021,Pee,Pañal mojado y en la mica,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-11 10:00:31
+252,339,08:11:47 04-11-2021,Pee,En la mica y pañal mojado,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-11 08:11:47
+253,338,02:40:43 04-11-2021,Pee,Pañal mojado,"Windel: nass, Mica: False","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-11 02:40:43
+254,337,21:00:28 04-10-2021,Pee,En el cambiador,"Windel: nass, Mica: False","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-10 21:00:28
+255,336,18:14:27 04-10-2021,Pee,Pañal mojado,"Windel: nass, Mica: False","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-10 18:14:27
+256,335,17:11:57 04-10-2021,Pee,En la mica,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-04-10 17:11:57
+257,333,16:14:43 04-10-2021,Pee,Pañal mojado,"Windel: nass, Mica: False","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-10 16:14:43
+258,334,15:15:07 04-10-2021,Pee,Pañal mojado,"Windel: nass, Mica: False","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-10 15:15:07
+260,331,12:32:50 04-10-2021,Pee,En la mica,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-04-10 12:32:50
+261,330,11:48:35 04-10-2021,Pee,Töpfchen und Windeln,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-10 11:48:35
+262,329,09:38:40 04-10-2021,Pee,En la mica,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-04-10 09:38:40
+263,328,09:00:29 04-10-2021,Pee,Pañal mojado,"Windel: nass, Mica: False","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-10 09:00:29
+264,327,07:10:52 04-10-2021,Pee,Pañal mojado,"Windel: nass, Mica: False","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-10 07:10:52
+265,326,04:25:38 04-10-2021,Pee,En la mica y pañal mojado,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-10 04:25:38
+266,325,21:00:04 04-09-2021,Pee,pañal mojado,"Windel: nass, Mica: False","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-09 21:00:04
+267,324,18:39:16 04-09-2021,Pee,En la mica,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-04-09 18:39:16
+269,322,10:57:07 04-09-2021,Pee,En la mica y pañal mojado,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-09 10:57:07
+270,321,10:00:08 04-09-2021,Pee,En la mica,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-04-09 10:00:08
+271,319,06:47:05 04-09-2021,Pee,En la mica y pañal mojado,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-09 06:47:05
+272,320,05:00:32 04-09-2021,Pee,Pañal mojado,"Windel: nass, Mica: False","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-09 05:00:32
+273,318,02:17:32 04-09-2021,Pee,En la mica y pañal mojado,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-09 02:17:32
+274,317,20:55:01 04-08-2021,Pee,En la mica y pañal mojado,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-08 20:55:01
+275,316,18:45:53 04-08-2021,Pee,En la mica,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-04-08 18:45:53
+276,315,17:55:00 04-08-2021,Pee,Pañal mojado,"Windel: nass, Mica: False","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-08 17:55:00
+277,314,12:11:55 04-08-2021,Pee,En la mica,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-04-08 12:11:55
+279,312,10:05:09 04-08-2021,Pee,En la mica,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-04-08 10:05:09
+280,311,09:42:02 04-08-2021,Pee,En el cambiador. ,"Windel: feucht, Mica: False","{'Windel': 'feucht', 'Mica': True}",True,feucht,2021-04-08 09:42:02
+281,310,09:02:52 04-08-2021,Pee,En la mica y pañal mojado,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-08 09:02:52
+282,309,05:30:37 04-08-2021,Pee,Pañal mojado,"Windel: nass, Mica: False","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-08 05:30:37
+283,308,00:31:02 04-08-2021,Pee,Pañal mojado,"Windel: nass, Mica: False","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-08 00:31:02
+284,307,21:30:33 04-07-2021,Pee,Pañal mojado,"Windel: nass, Mica: False","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-07 21:30:33
+285,306,18:54:29 04-07-2021,Pee,En la mica,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-04-07 18:54:29
+286,305,18:37:29 04-07-2021,Pee,Windel voll,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-07 18:37:29
+287,304,17:14:13 04-07-2021,Pee,En la mica y pañal mojado,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-07 17:14:13
+288,303,16:02:42 04-07-2021,Pee,Windel voll,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-07 16:02:42
+289,302,14:30:07 04-07-2021,Pee,Pañal mojado,"Windel: nass, Mica: False","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-07 14:30:07
+290,298,12:39:04 04-07-2021,Pee,Mica und Nass,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-07 12:39:04
+291,299,10:00:01 04-07-2021,Pee,En la mica y pañal mojado,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-07 10:00:01
+292,301,08:01:16 04-07-2021,Pee,,None,"{'Mica': None, 'Windel': None}",,,2021-04-07 08:01:16
+293,300,05:00:56 04-07-2021,Pee,En la mica y pañal mojado,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-07 05:00:56
+294,297,01:18:20 04-07-2021,Pee,En la mica y Pañal mojado,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-07 01:18:20
+296,292,17:15:21 04-06-2021,Pee,En la mica y pañal mojado,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-06 17:15:21
+297,293,16:30:11 04-06-2021,Pee,Pañal mojado,"Windel: nass, Mica: False","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-06 16:30:11
+298,291,13:33:52 04-06-2021,Pee,En la mica y pañal mojado,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-06 13:33:52
+299,289,10:35:24 04-06-2021,Pee,En la mica y pañal mojado,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-06 10:35:24
+300,290,08:42:41 04-06-2021,Pee,Pañal mojado,"Windel: nass, Mica: False","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-06 08:42:41
+301,288,05:25:54 04-06-2021,Pee,En la mica,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-04-06 05:25:54
+303,286,04:58:10 04-06-2021,Pee,Pañal mojado,"Windel: nass, Mica: False","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-06 04:58:10
+304,285,20:59:11 04-05-2021,Pee,En la mica y pañal mojado,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-05 20:59:11
+306,283,13:56:13 04-05-2021,Pee,En la mica y pañal mojado,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-05 13:56:13
+308,282,08:40:28 04-05-2021,Pee,Pañal mojado y en la mica,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-05 08:40:28
+309,280,05:07:31 04-05-2021,Pee,En la mica y pañal mojado,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-05 05:07:31
+310,279,00:47:36 04-05-2021,Pee,En la mica y Pañal mojado,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-05 00:47:36
+311,278,21:14:48 04-04-2021,Pee,En la mica y pañal mojado,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-04 21:14:48
+312,277,19:05:17 04-04-2021,Pee,En la mica,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-04-04 19:05:17
+313,276,13:18:11 04-04-2021,Pee,Mica,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-04 13:18:11
+314,275,08:00:10 04-04-2021,Pee,En la mica y pañal mojado,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-04 08:00:10
+316,273,23:13:17 04-03-2021,Pee,Pañal mojado,"Windel: nass, Mica: False","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-03 23:13:17
+317,272,18:11:43 04-03-2021,Pee,Pañal mojado,"Windel: nass, Mica: False","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-03 18:11:43
+318,271,17:22:34 04-03-2021,Pee,En la mica y pañal mojado,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-03 17:22:34
+320,269,14:51:18 04-03-2021,Pee,Pañal mojado,"Windel: nass, Mica: False","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-03 14:51:18
+322,267,08:45:34 04-03-2021,Pee,Pañal mojado,"Windel: nass, Mica: False","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-03 08:45:34
+323,265,06:19:19 04-03-2021,Pee,En la mica,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-04-03 06:19:19
+324,259,06:05:24 04-03-2021,Pee,Pañal mojado,"Windel: nass, Mica: False","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-03 06:05:24
+325,260,00:09:59 04-03-2021,Pee,En la mica y pañal mojado,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-03 00:09:59
+326,262,21:00:44 04-02-2021,Pee,En la mica,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-04-02 21:00:44
+327,263,19:15:08 04-02-2021,Pee,En la mica y pañal mojado,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-02 19:15:08
+328,266,18:19:34 04-02-2021,Pee,En la mica y pañal mojado,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-02 18:19:34
+329,264,15:17:29 04-02-2021,Pee,En la mica y pañal mojado,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-02 15:17:29
+330,258,13:20:45 04-02-2021,Pee,Pipi Töpfchen,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-02 13:20:45
+331,257,09:34:48 04-02-2021,Pee,Töpfchen + Windel (gut voll),"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-02 09:34:48
+333,261,06:11:15 04-02-2021,Pee,En la mica y pañal mojado,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-02 06:11:15
+334,255,00:22:04 04-02-2021,Pee,,None,"{'Mica': None, 'Windel': None}",,,2021-04-02 00:22:04
+336,253,00:02:05 04-02-2021,Pee,Pañal mojado,"Windel: nass, Mica: False","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-02 00:02:05
+337,252,17:41:48 04-01-2021,Pee,Pañal mojado,"Windel: nass, Mica: False","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-01 17:41:48
+338,251,13:47:44 04-01-2021,Pee,En la mica y pañal mojado,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-01 13:47:44
+339,250,08:58:20 04-01-2021,Pee,En la mica y pañal mojado,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-01 08:58:20
+341,248,05:57:46 04-01-2021,Pee,En la mica y pañal mojado,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-01 05:57:46
+342,247,00:22:08 04-01-2021,Pee,Windel voll,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-04-01 00:22:08
+343,246,21:04:15 03-31-2021,Pee,En la mica y pañal mojado,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-03-31 21:04:15
+344,245,18:00:09 03-31-2021,Pee,En la mica,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-03-31 18:00:09
+345,244,14:40:29 03-31-2021,Pee,En la mica y pañal mojado,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-03-31 14:40:29
+347,242,10:59:10 03-31-2021,Pee,En la mica,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-03-31 10:59:10
+348,241,09:43:11 03-31-2021,Pee,Töpfchen und Windel,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-03-31 09:43:11
+350,239,06:36:05 03-31-2021,Pee,En la mica y pañal mojado,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-03-31 06:36:05
+351,238,03:00:06 03-31-2021,Pee,Pañal mojado,"Windel: nass, Mica: False","{'Windel': 'nass', 'Mica': True}",True,nass,2021-03-31 03:00:06
+352,237,09:48:38 03-30-2021,Pee,Windel voll,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-03-30 09:48:38
+353,236,05:41:40 03-30-2021,Pee,En la mica,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-03-30 05:41:40
+354,235,05:30:13 03-30-2021,Pee,Pañal mojado,"Windel: nass, Mica: False","{'Windel': 'nass', 'Mica': True}",True,nass,2021-03-30 05:30:13
+356,234,16:25:16 03-29-2021,Pee,En la mica y pañal mojado,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-03-29 16:25:16
+357,232,09:30:33 03-29-2021,Pee,Pañal mojado y en la mica,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-03-29 09:30:33
+359,230,20:40:17 03-28-2021,Pee,En la mica y pañal mojado,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-03-28 20:40:17
+360,229,17:23:17 03-28-2021,Pee,En la mica y pañal mojado,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-03-28 17:23:17
+361,228,12:45:24 03-28-2021,Pee,Während nackt Zeit,"Windel: nass, Mica: False","{'Windel': 'nass', 'Mica': True}",True,nass,2021-03-28 12:45:24
+364,226,09:40:27 03-28-2021,Pee,En el pañal,"Windel: nass, Mica: False","{'Windel': 'nass', 'Mica': True}",True,nass,2021-03-28 09:40:27
+365,224,16:31:08 03-27-2021,Pee,,None,"{'Mica': None, 'Windel': None}",,,2021-03-27 16:31:08
+366,223,16:20:39 03-27-2021,Pee,En la mica y pañal mojado,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-03-27 16:20:39
+367,222,14:20:51 03-27-2021,Pee,Pañal mojado y en la mica,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-03-27 14:20:51
+368,220,10:40:32 03-27-2021,Pee,Pañal mojado y en la mica,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-03-27 10:40:32
+370,218,05:55:40 03-27-2021,Pee,En el pañal,"Windel: nass, Mica: False","{'Windel': 'nass', 'Mica': True}",True,nass,2021-03-27 05:55:40
+371,217,04:49:53 03-27-2021,Pee,En el pañal,"Windel: nass, Mica: False","{'Windel': 'nass', 'Mica': True}",True,nass,2021-03-27 04:49:53
+372,216,01:35:33 03-27-2021,Pee,En la mica y pañal mojado,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-03-27 01:35:33
+374,214,17:15:01 03-26-2021,Pee,En la mica,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-03-26 17:15:01
+375,213,16:41:56 03-26-2021,Pee,En el pañal,"Windel: nass, Mica: False","{'Windel': 'nass', 'Mica': True}",True,nass,2021-03-26 16:41:56
+376,212,12:08:31 03-26-2021,Pee,Pañal mojado,"Windel: nass, Mica: False","{'Windel': 'nass', 'Mica': True}",True,nass,2021-03-26 12:08:31
+377,211,08:36:21 03-26-2021,Pee,En el pañal,"Windel: nass, Mica: False","{'Windel': 'nass', 'Mica': True}",True,nass,2021-03-26 08:36:21
+378,210,06:22:58 03-26-2021,Pee,En la mica y pañal mojado,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-03-26 06:22:58
+379,209,04:40:49 03-26-2021,Pee,En la mica y pañal mojado ,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-03-26 04:40:49
+380,208,00:07:09 03-26-2021,Pee,Pañal mojado,"Windel: nass, Mica: False","{'Windel': 'nass', 'Mica': True}",True,nass,2021-03-26 00:07:09
+381,206,17:50:35 03-25-2021,Pee,En la mica y en el pañal,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-03-25 17:50:35
+382,207,15:00:17 03-25-2021,Pee,En la mica y pañal,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-03-25 15:00:17
+383,204,12:30:27 03-25-2021,Pee,En la mica y en el pañal,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-03-25 12:30:27
+384,205,09:00:57 03-25-2021,Pee,,None,"{'Mica': None, 'Windel': None}",,,2021-03-25 09:00:57
+386,202,06:15:30 03-25-2021,Pee,Pañal mojado,"Windel: nass, Mica: False","{'Windel': 'nass', 'Mica': True}",True,nass,2021-03-25 06:15:30
+387,201,03:10:47 03-25-2021,Pee,Pañal mojado,"Windel: nass, Mica: False","{'Windel': 'nass', 'Mica': True}",True,nass,2021-03-25 03:10:47
+388,200,10:01:45 03-24-2021,Pee,En la mica,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-03-24 10:01:45
+389,199,09:08:23 03-24-2021,Pee,Windel voll,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-03-24 09:08:23
+391,197,05:35:26 03-24-2021,Pee,En la mica y pañal mojado,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-03-24 05:35:26
+392,196,02:40:15 03-24-2021,Pee,En la mica y pañal mojado,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-03-24 02:40:15
+393,195,16:31:18 03-23-2021,Pee,En la mica,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-03-23 16:31:18
+394,194,14:02:19 03-23-2021,Pee,Pañal mojado,"Windel: nass, Mica: False","{'Windel': 'nass', 'Mica': True}",True,nass,2021-03-23 14:02:19
+395,193,11:30:16 03-23-2021,Pee,En la mica después de llegar,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-03-23 11:30:16
+397,192,08:20:40 03-23-2021,Pee,Pañal mojado,"Windel: nass, Mica: False","{'Windel': 'nass', 'Mica': True}",True,nass,2021-03-23 08:20:40
+398,190,04:57:25 03-23-2021,Pee,En la mica y pañal mojado,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-03-23 04:57:25
+399,189,00:08:10 03-23-2021,Pee,Pañal mojado,"Windel: nass, Mica: False","{'Windel': 'nass', 'Mica': True}",True,nass,2021-03-23 00:08:10
+400,188,20:39:34 03-22-2021,Pee,Windel voll und in Töpfchen,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-03-22 20:39:34
+402,185,12:16:16 03-22-2021,Pee,En la mica,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-03-22 12:16:16
+403,184,12:05:57 03-22-2021,Pee,Pañal mojado,"Windel: nass, Mica: False","{'Windel': 'nass', 'Mica': True}",True,nass,2021-03-22 12:05:57
+405,182,08:48:44 03-22-2021,Pee,Mica,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-03-22 08:48:44
+406,179,06:19:15 03-22-2021,Pee,En la mica y pañal mojado,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-03-22 06:19:15
+408,178,04:46:10 03-22-2021,Pee,Pañal mojado,"Windel: nass, Mica: False","{'Windel': 'nass', 'Mica': True}",True,nass,2021-03-22 04:46:10
+409,177,03:13:31 03-22-2021,Pee,En el pañal y mica,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-03-22 03:13:31
+410,176,23:46:51 03-21-2021,Pee,Pañal mojado,"Windel: nass, Mica: False","{'Windel': 'nass', 'Mica': True}",True,nass,2021-03-21 23:46:51
+411,175,20:31:40 03-21-2021,Pee,In Windel,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-03-21 20:31:40
+413,173,14:40:28 03-21-2021,Pee,En la mica y pañal,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-03-21 14:40:28
+414,172,12:35:48 03-21-2021,Pee,En la mica y pañal lleno,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-03-21 12:35:48
+416,171,09:06:32 03-21-2021,Pee,Pañal lleno,"Windel: nass, Mica: False","{'Windel': 'nass', 'Mica': True}",True,nass,2021-03-21 09:06:32
+417,169,05:46:22 03-21-2021,Pee,En el pañal,"Windel: nass, Mica: False","{'Windel': 'nass', 'Mica': True}",True,nass,2021-03-21 05:46:22
+418,168,00:13:29 03-21-2021,Pee,Pañal mojado,"Windel: nass, Mica: False","{'Windel': 'nass', 'Mica': True}",True,nass,2021-03-21 00:13:29
+419,167,20:10:05 03-20-2021,Pee,Töpfchen und Windel,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-03-20 20:10:05
+420,166,17:10:42 03-20-2021,Pee,Mica y pañal lleno,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-03-20 17:10:42
+421,165,14:32:37 03-20-2021,Pee,Pañal lleno,"Windel: nass, Mica: False","{'Windel': 'nass', 'Mica': True}",True,nass,2021-03-20 14:32:37
+422,163,11:29:01 03-20-2021,Pee,En la mica,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-03-20 11:29:01
+423,164,09:30:40 03-20-2021,Pee,Pañal lleno. Después del baño en la toalla,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-03-20 09:30:40
+425,161,04:26:35 03-20-2021,Pee,Pañal lleno,"Windel: nass, Mica: False","{'Windel': 'nass', 'Mica': True}",True,nass,2021-03-20 04:26:35
+426,158,20:19:56 03-19-2021,Pee,En la mica,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-03-19 20:19:56
+427,154,18:58:05 03-19-2021,Pee,En la mica,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-03-19 18:58:05
+428,155,15:50:31 03-19-2021,Pee,En la mica,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-03-19 15:50:31
+429,157,13:00:38 03-19-2021,Pee,En la mica,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-03-19 13:00:38
+433,152,04:59:56 03-18-2021,Pee,Pañal lleno,"Windel: nass, Mica: False","{'Windel': 'nass', 'Mica': True}",True,nass,2021-03-18 04:59:56
+434,150,02:20:31 03-18-2021,Pee,Windel voll,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-03-18 02:20:31
+435,149,00:13:20 03-18-2021,Pee,En el pañal,"Windel: nass, Mica: False","{'Windel': 'nass', 'Mica': True}",True,nass,2021-03-18 00:13:20
+437,147,13:47:48 03-17-2021,Pee,En la mica y pañal mojado. Después de despertarse,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-03-17 13:47:48
+438,146,11:35:45 03-17-2021,Pee,En la mica. Arqueó la espalda mientras en el cambiador,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-03-17 11:35:45
+439,145,11:16:04 03-17-2021,Pee,En la mica después de despertarse,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-03-17 11:16:04
+440,144,08:51:50 03-17-2021,Pee,Pañal lleno y pipí en la mica,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-03-17 08:51:50
+443,141,00:00:59 03-17-2021,Pee,En la mica. 15 minutos después de comer,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-03-17 00:00:59
+444,140,23:37:55 03-16-2021,Pee,Pañal lleno,"Windel: nass, Mica: False","{'Windel': 'nass', 'Mica': True}",True,nass,2021-03-16 23:37:55
+446,138,18:05:19 03-16-2021,Pee,En la mica. Apenas se despertó. Pañal mojado,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-03-16 18:05:19
+447,137,16:04:00 03-16-2021,Pee,En la mica después de llegar y pañal mojado,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-03-16 16:04:00
+449,135,13:55:35 03-16-2021,Pee,En la mica un poquito y pañal mojado,"Windel: feucht, Mica: True","{'Windel': 'feucht', 'Mica': True}",True,feucht,2021-03-16 13:55:35
+451,133,06:23:00 03-16-2021,Pee,Windel voll,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-03-16 06:23:00
+452,132,03:06:48 03-16-2021,Pee,En la mica y pañal lleno,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-03-16 03:06:48
+454,130,23:33:25 03-15-2021,Pee,Pañal lleno,"Windel: nass, Mica: False","{'Windel': 'nass', 'Mica': True}",True,nass,2021-03-15 23:33:25
+455,129,18:01:13 03-15-2021,Pee,Während trinken aufgehört und dann angefangen zu pinkeln.,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-03-15 18:01:13
+456,128,13:26:34 03-15-2021,Pee,En la mica,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-03-15 13:26:34
+457,127,12:15:25 03-15-2021,Pee,En la mica y pañal estaba lleno,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-03-15 12:15:25
+458,126,09:22:53 03-15-2021,Pee,Windel nass. Pipi ins Töpfchen.,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-03-15 09:22:53
+461,123,00:48:16 03-15-2021,Pee,Windel nass + pipi en la mica,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-03-15 00:48:16
+462,122,21:42:44 03-14-2021,Pee,En la mica. Wurde unruhig beim Schlafen. ,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-03-14 21:42:44
+463,120,18:42:25 03-14-2021,Pee,,None,"{'Mica': None, 'Windel': None}",,,2021-03-14 18:42:25
+464,119,15:00:21 03-14-2021,Pee,15 después de comer. Se despertó. Cuerpo tenso. Pipi,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-03-14 15:00:21
+466,117,12:00:59 03-14-2021,Pee,En la mica,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-03-14 12:00:59
+467,115,10:00:36 03-14-2021,Pee,Pipi en la mica,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-03-14 10:00:36
+471,112,00:49:54 03-14-2021,Pee,Windel voll,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-03-14 00:49:54
+472,111,20:49:17 03-13-2021,Pee,Wenig in der Windel,"Windel: feucht, Mica: False","{'Windel': 'feucht', 'Mica': True}",True,feucht,2021-03-13 20:49:17
+473,110,17:23:12 03-13-2021,Pee,En la mica,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-03-13 17:23:12
+474,109,15:42:22 03-13-2021,Pee,En la mica. Se quejó después de despertarse,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-03-13 15:42:22
+476,106,10:00:06 03-13-2021,Pee,,None,"{'Mica': None, 'Windel': None}",,,2021-03-13 10:00:06
+477,105,09:10:20 03-13-2021,Pee,En el pañal y un poquito en la mica,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-03-13 09:10:20
+480,102,04:20:07 03-13-2021,Pee,En la mica,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-03-13 04:20:07
+482,97,20:00:09 03-12-2021,Pee,Pañal,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-03-12 20:00:09
+483,98,19:30:24 03-12-2021,Pee,In die Windel. Hatte es durch weinen angekündigt. Tim war zu spät.,"Windel: nass, Mica: False","{'Windel': 'nass', 'Mica': True}",True,nass,2021-03-12 19:30:24
+484,96,17:00:04 03-12-2021,Pee,En la mica,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-03-12 17:00:04
+485,95,14:15:12 03-12-2021,Pee,Pañal,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-03-12 14:15:12
+486,94,13:18:15 03-12-2021,Pee,En la mica,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-03-12 13:18:15
+488,92,04:38:21 03-12-2021,Pee,En la mica y el pañal lleno,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-03-12 04:38:21
+489,90,21:07:42 03-11-2021,Pee,,None,"{'Mica': None, 'Windel': None}",,,2021-03-11 21:07:42
+490,89,18:40:43 03-11-2021,Pee,En el pañal y en la mica,"Windel: nass, Mica: False","{'Windel': 'nass', 'Mica': True}",True,nass,2021-03-11 18:40:43
+492,87,09:30:53 03-11-2021,Pee,En el pañal y en la mica,"Windel: nass, Mica: False","{'Windel': 'nass', 'Mica': True}",True,nass,2021-03-11 09:30:53
+493,86,07:06:25 03-11-2021,Pee,En el pañal,"Windel: nass, Mica: False","{'Windel': 'nass', 'Mica': True}",True,nass,2021-03-11 07:06:25
+496,83,02:53:14 03-11-2021,Pee,Windel voll. ,"Windel: nass, Mica: False","{'Windel': 'nass', 'Mica': True}",True,nass,2021-03-11 02:53:14
+498,81,17:42:28 03-10-2021,Pee,En la mica. Se quejó antes de hacer,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-03-10 17:42:28
+499,80,16:24:21 03-10-2021,Pee,En el cambiador. Lloró,"Windel: nass, Mica: False","{'Windel': 'nass', 'Mica': True}",True,nass,2021-03-10 16:24:21
+501,78,14:13:17 03-10-2021,Pee,,None,"{'Mica': None, 'Windel': None}",,,2021-03-10 14:13:17
+503,76,10:52:19 03-10-2021,Pee,En la mica. Wurde unruhig beim wickeln,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-03-10 10:52:19
+507,72,04:20:56 03-10-2021,Pee,En en pañal,"Windel: nass, Mica: False","{'Windel': 'nass', 'Mica': True}",True,nass,2021-03-10 04:20:56
+508,71,18:30:35 03-09-2021,Pee,En la mica,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-03-09 18:30:35
+509,70,16:21:24 03-09-2021,Pee,Windel und Töpfchen,"Windel: feucht, Mica: True","{'Windel': 'feucht', 'Mica': True}",True,feucht,2021-03-09 16:21:24
+510,69,12:02:34 03-09-2021,Pee,Pañal lleno,"Windel: nass, Mica: False","{'Windel': 'nass', 'Mica': True}",True,nass,2021-03-09 12:02:34
+513,66,04:20:16 03-09-2021,Pee,En el pañal,"Windel: nass, Mica: False","{'Windel': 'nass', 'Mica': True}",True,nass,2021-03-09 04:20:16
+514,67,02:20:41 03-09-2021,Pee,En la mica,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-03-09 02:20:41
+515,64,20:30:26 03-08-2021,Pee,En el pañal,"Windel: nass, Mica: False","{'Windel': 'nass', 'Mica': True}",True,nass,2021-03-08 20:30:26
+516,63,16:54:16 03-08-2021,Pee,Kurz geweint. Pipí in potty,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-03-08 16:54:16
+517,61,16:40:48 03-08-2021,Pee,,None,"{'Mica': None, 'Windel': None}",,,2021-03-08 16:40:48
+521,57,01:17:08 03-08-2021,Pee,En el pañal,"Windel: nass, Mica: False","{'Windel': 'nass', 'Mica': True}",True,nass,2021-03-08 01:17:08
+522,56,20:50:00 03-07-2021,Pee,En el pañal y en la mica,"Windel: nass, Mica: False","{'Windel': 'nass', 'Mica': True}",True,nass,2021-03-07 20:50:00
+523,55,16:00:00 03-07-2021,Pee,,None,"{'Mica': None, 'Windel': None}",,,2021-03-07 16:00:00
+528,48,17:40:03 03-06-2021,Pee,In die Windel,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-03-06 17:40:03
+530,47,13:59:04 03-06-2021,Pee,,None,"{'Mica': None, 'Windel': None}",,,2021-03-06 13:59:04
+531,46,13:05:40 03-06-2021,Pee,,None,"{'Mica': None, 'Windel': None}",,,2021-03-06 13:05:40
+534,43,02:20:36 03-06-2021,Pee,En la mica. Se puso incómoda pero no lloró. El pañal estaba seco,"Windel: feucht, Mica: True","{'Windel': 'feucht', 'Mica': True}",True,feucht,2021-03-06 02:20:36
+535,42,21:14:50 03-05-2021,Pee,En la mica  y el pañal mojado. Lloró antes de hacer pipí,"Windel: nass, Mica: True","{'Windel': 'nass', 'Mica': True}",True,nass,2021-03-05 21:14:50
+540,35,10:27:43 03-05-2021,Pee,En la mica,"Windel: trocken, Mica: True","{'Windel': 'trocken', 'Mica': True}",True,trocken,2021-03-05 10:27:43
+547,29,12:50:13 03-04-2021,Pee,,None,"{'Mica': None, 'Windel': None}",,,2021-03-04 12:50:13
+549,24,09:31:02 03-04-2021,Pee,,None,"{'Mica': None, 'Windel': None}",,,2021-03-04 09:31:02
+550,23,04:00:55 03-04-2021,Pee,,None,"{'Mica': None, 'Windel': None}",,,2021-03-04 04:00:55
+552,21,18:30:40 03-03-2021,Pee,,None,"{'Mica': None, 'Windel': None}",,,2021-03-03 18:30:40
+555,16,14:36:20 03-03-2021,Pee,,None,"{'Mica': None, 'Windel': None}",,,2021-03-03 14:36:20
+557,14,10:00:16 03-03-2021,Pee,,None,"{'Mica': None, 'Windel': None}",,,2021-03-03 10:00:16
+559,13,03:30:13 03-03-2021,Pee,,None,"{'Mica': None, 'Windel': None}",,,2021-03-03 03:30:13
+560,10,02:57:47 03-03-2021,Pee,,None,"{'Mica': None, 'Windel': None}",,,2021-03-03 02:57:47
+561,9,23:33:15 03-02-2021,Pee,,None,"{'Mica': None, 'Windel': None}",,,2021-03-02 23:33:15
+562,8,20:02:39 03-02-2021,Pee,,None,"{'Mica': None, 'Windel': None}",,,2021-03-02 20:02:39
+565,4,13:21:56 03-02-2021,Pee,,None,"{'Mica': None, 'Windel': None}",,,2021-03-02 13:21:56
+566,5,11:30:40 03-02-2021,Pee,,None,"{'Mica': None, 'Windel': None}",,,2021-03-02 11:30:40
+569,1,02:42:38 03-02-2021,Pee,,None,"{'Mica': None, 'Windel': None}",,,2021-03-02 02:42:38
